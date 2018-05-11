@@ -1,6 +1,21 @@
 = Spring Boot 2.0 Webinar Code
 
 
+== URL video Introducing Spring Boot 2.0
+
+
+https://www.brighttalk.com/webcast/14893/304441?utm_campaign=communication_reminder_starting_now_registrants&utm_medium=email&utm_source=brighttalk-transact&utm_content=button
+
+== urls
+
+localhos:8080/info
+localhos:8080/env
+user/magic
+localhos:8080/login
+user/magic
+localhos:8080/cities
+localhos:8080/citi/london
+
 
 == Introduction
 This project acts as a simple introduction to Spring Boot 2.0.
